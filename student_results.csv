@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Statistics,Database,Communication,Attendance,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav Sharma,CSE,86,91,78,88,92,343,85.75,A,Pass
+S002,Diya Verma,CSE,92,95,89,94,96,370,92.5,A+,Pass
+S003,Kabir Singh,IT,74,81,77,79,85,311,77.75,B,Pass
+S004,Ananya Gupta,DS,88,84,91,90,93,353,88.25,A,Pass
+S005,Ishaan Patel,IT,65,72,69,70,78,276,69.0,C,Pass
+S006,Meera Joshi,DS,95,93,97,96,98,381,95.25,A+,Pass
+S007,Rohan Das,CSE,58,63,61,66,72,248,62.0,C,Pass
+S008,Sara Khan,IT,81,76,84,80,87,321,80.25,A,Pass
+S009,Arjun Mehta,DS,43,51,47,55,64,196,49.0,F,Pass
+S010,Kavya Nair,CSE,77,82,75,79,89,313,78.25,B,Pass
+S011,Vivaan Rao,IT,33,46,39,42,58,160,40.0,F,Fail
+S012,Ira Malhotra,DS,89,92,87,91,95,359,89.75,A,Pass
+S013,Aditya Roy,CSE,69,74,71,68,80,282,70.5,B,Pass
+S014,Tara Iyer,IT,98,96,94,97,99,385,96.25,A+,Pass
+S015,Neil Kapoor,DS,52,59,55,61,70,227,56.75,D,Pass
+S016,Myra Sen,CSE,84,88,86,83,90,341,85.25,A,Pass
+S017,Reyansh Jain,IT,61,67,64,63,76,255,63.75,C,Pass
+S018,Aditi Bose,DS,73,79,82,77,88,311,77.75,B,Pass
+S019,Krish Bhatia,CSE,47,44,53,49,60,193,48.25,F,Pass
+S020,Zoya Ali,IT,90,87,92,89,94,358,89.5,A,Pass
